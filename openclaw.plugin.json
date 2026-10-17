@@ -1,0 +1,6 @@
+{
+  "id": "laya-triage",
+  "name": "Laya triage",
+  "activation": { "onStartup": true },
+  "configSchema": { "type": "object", "additionalProperties": false }
+}
